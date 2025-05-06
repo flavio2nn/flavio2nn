@@ -73,7 +73,7 @@ Aqui você encontrará alguns dos meus melhores projetos. 🚀
 
 
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
 
 ###
 
