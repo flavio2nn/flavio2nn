@@ -102,7 +102,8 @@ Aqui você encontrará alguns dos meus melhores projetos. 🚀
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/flavio2nn/flavio2nn/output/snake.svg" alt="Snake animation" />
+
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flavio2nn/flavio2nn/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flavio2nn/flavio2nn/output/github-contribution-grid-snake-dark.svg">
