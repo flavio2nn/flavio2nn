@@ -43,3 +43,10 @@ Aqui você encontrará alguns dos meus melhores projetos. 🚀
 - [LinkedIn](https://www.linkedin.com/in/linx-linx-a3429734b)
 - [Twitter](https://twitter.com/elonmusk)
 - [WhatsApp](https://wa.me/5518997553828)
+
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
